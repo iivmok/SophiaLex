@@ -3,7 +3,7 @@ SophiaLex
 
 Mathematical expression lexer and parser in C#
 
-Comes with unit tests and a test window.
+Comes with unit tests and a test window, although **the project is unfinished**.
 
 ![Screenshot](http://i.imgur.com/NOkJxnW.png)
 
