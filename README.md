@@ -16,7 +16,7 @@ Plans
 --------
 
   - variables (90% there)
-  - trigonomy and other functions
+  - tigonometry and other functions
   - assignment expressions (y =x^2 + 5*x + 3)
 
 Speed
