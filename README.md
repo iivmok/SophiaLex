@@ -9,8 +9,8 @@ Comes with unit tests and a test window.
 
 Of most interest are
 
-  - [Lexer.cs](../blob/master/SophiaLex/Lexer.cs)
-  - [Parser.cs](../blob/master/SophiaLex/Parser.cs)
+  - [Lexer.cs](master/SophiaLex/Lexer.cs)
+  - [Parser.cs](master/SophiaLex/Parser.cs)
 
 Speed
 --------
