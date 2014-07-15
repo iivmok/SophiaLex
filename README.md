@@ -7,6 +7,11 @@ Comes with unit tests and a test window.
 
 ![Screenshot](http://i.imgur.com/NOkJxnW.png)
 
+Of most interest are
+
+  - [Lexer.cs](../blob/master/SophiaLex/Lexer.cs)
+  - [Parser.cs](../blob/master/SophiaLex/Parser.cs)
+
 Speed
 --------
 
