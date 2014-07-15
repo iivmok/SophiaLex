@@ -22,7 +22,7 @@ Plans
 Speed
 --------
 
-The expression show in the above screenshot is lexed, parsed and evaluated in about 0.026 ms on a Intel i7 machine.
+The expression show in the above screenshot is lexed, parsed and evaluated in about 0.026 ms (eg. about 28 times in 1ms) on an Intel i7 machine.
 
 Why
 --------
